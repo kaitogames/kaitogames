@@ -20,3 +20,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/csharp.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/cpp.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/c.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/python.svg" width="120" />
+</p>

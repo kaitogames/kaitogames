@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Abdul Mannan Ali 👋</h2>
 
-<p align="center">I’m a BSCS student and aspiring game developer. I’ve been working with C# for a few months and started making games in Unity, where I’ve built a few beginner projects while learning game development. I’m currently working on C++ and plan to learn Unreal Engine next.</p>
+<p align="center">I’m a BSCS student and aspiring **Game Developer**. I’ve been working with C# for a few months and started making games in Unity, where I’ve built a few beginner projects while learning game development. I’m currently working on C++ and plan to learn Unreal Engine next.</p>
 
 <table align="center">
   <tr>

@@ -10,7 +10,7 @@
     </td>
     <td align="center">
       <h3>🛠️ Tools</h3>
-      <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,blender,github,git,windows" />
+      <img src="https://skillicons.dev/icons?i=unity,visualstudio,blender,github,git,windows" />
     </td>
   </tr>
   <tr>

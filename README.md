@@ -24,8 +24,13 @@
     </td>
   </tr>
 </table>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
+
+<div align="center">
+  <b>Skill Bar</b>
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/csharp.svg" width="120" />

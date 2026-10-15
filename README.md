@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/python.svg" width="120" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=radical&hide_border=true&v=2" />
 </div>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />

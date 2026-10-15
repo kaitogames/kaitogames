@@ -24,7 +24,9 @@
     </td>
   </tr>
 </table>
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/csharp.svg" width="120" />
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/cpp.svg" width="120" />
@@ -32,6 +34,6 @@
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/python.svg" width="120" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=dracula&hide_border=true&v=2" /><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=dracula&hide_border=true&v=2" />
 </div>
 

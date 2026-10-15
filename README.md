@@ -20,6 +20,3 @@
     </td>
   </tr>
 </table>
-![C++](https://geps.dev/progress/25?label=C%2B%2B)
-![C#](https://geps.dev/progress/45?label=C%23)
-![Python](https://geps.dev/progress/15?label=Python)

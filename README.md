@@ -4,7 +4,7 @@
 </p>
 <h2 align="center">Hi, I'm Abdul Mannan Ali 👋</h2>
 
-<p align="center">I’m a BSCS student and aspiring <b>Game Developer</b>. I’ve been working with C# for a few months and started making games in <b>Unity</b>, where I’ve built a few beginner projects. I’m currently working on C++ along with C# and plan to learn <b>Unreal Engine</b> in the future.</p>
+<p align="center">I’m a BSCS student and aspiring <b>Game Developer</b>. I’ve been working with C# for a few months and started making games in <b>Unity</b>, where I’ve built a few beginner projects. I’m currently working on C++ alongside C# and plan to learn <b>Unreal Engine</b> in the future.</p>
 
 <table align="center">
   <tr>

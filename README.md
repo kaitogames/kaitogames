@@ -28,7 +28,16 @@
 <br>
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaitogames/kaitogames/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaitogames/kaitogames/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/kaitogames/kaitogames/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
+<br>
+<br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
@@ -58,12 +67,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=dracula&hide_border=true&v=2" />
 </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaitogames/kaitogames/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaitogames/kaitogames/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/kaitogames/kaitogames/output/github-snake-dark.svg" />
-  </picture>
-</div>
-

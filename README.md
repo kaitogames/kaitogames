@@ -25,19 +25,39 @@
   </tr>
 </table>
 
+<br>
+<br>
+<br>
+<br>
+
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </div>
 
+<br>
+<br>
+<br>
+<br>
+
+
+
 <div align="center">
   <b>Skill Bar</b>
 </div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/csharp.svg" width="120" />
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/cpp.svg" width="120" />
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/c.svg" width="120" />
   <img src="https://raw.githubusercontent.com/kaitogames/kaitogames/main/python.svg" width="120" />
 </p>
+
+<br>
+<br>
+<br>
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=dracula&hide_border=true&v=2" />
 </div>

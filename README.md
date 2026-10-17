@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="7fac18b529695f20b986ad7982819558.jpg" width="900" />
+  <img src="Screenshot (84).png" width="900" />
 </p>
 <h2 align="center">Hi, I'm Abdul Mannan Ali 👋</h2>
 

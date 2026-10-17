@@ -20,7 +20,7 @@
   <tr>
     <td align="center" colspan="2">
       <h3>📦 Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=dotnet" />
+      <img src="https://skillicons.dev/icons?i=dotnet,vercel,react,vite,nodejs" />
     </td>
   </tr>
 </table>

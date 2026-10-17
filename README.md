@@ -14,7 +14,7 @@
     </td>
     <td align="center">
       <h3>🛠️ Tools</h3>
-      <img src="https://skillicons.dev/icons?i=unity,visualstudio,blender,github,git,windows" />
+      <img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,blender,github,git,windows" />
     </td>
   </tr>
   <tr>
@@ -65,5 +65,5 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=radical&hide_border=true&hide=shaderlab&v=4" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=radical&hide_border=true&hide=shaderlab&v=5" />
 </div>

@@ -65,5 +65,5 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=dracula&hide_border=true&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=dracula&hide_border=true&v=3" />
 </div>

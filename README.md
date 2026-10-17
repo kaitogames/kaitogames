@@ -50,7 +50,7 @@
 
 
 <div align="center">
-  <b>Skill Bar</b>
+  <h3>Skill Bar</h3>
 </div>
 
 <p align="center">

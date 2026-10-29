@@ -7,6 +7,6 @@
   </defs>
   <circle cx="60" cy="60" r="40" fill="none" stroke="#e0e0e0" stroke-width="10"/>
   <circle cx="60" cy="60" r="40" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" stroke-dasharray="251.33" stroke-dashoffset="228.71" transform="rotate(-90 60 60)"/>
-  <text x="60" y="65" text-anchor="middle" font-family="Arial" font-size="16" fill="#888">20%</text>
+  <text x="60" y="65" text-anchor="middle" font-family="Arial" font-size="16" fill="#888">30%</text>
   <text x="60" y="130" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#888">C++</text>
 </svg>

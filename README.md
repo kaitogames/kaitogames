@@ -62,5 +62,5 @@ Quotes_____________
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitogames&layout=donut&theme=radical&hide_border=true&hide=shaderlab&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaitogames&theme=radical" />
 </div>
